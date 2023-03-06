@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.BinarySearch;
 
 public class Q278 {
     public int firstBadVersion(int n) {
