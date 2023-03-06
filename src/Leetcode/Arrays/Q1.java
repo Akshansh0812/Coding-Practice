@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.Arrays;
 
 public class Q1 {
     public int[] twoSum(int[] nums, int target) {
